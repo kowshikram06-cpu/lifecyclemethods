@@ -28,8 +28,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 Program to print the text “Hello World”.
-Developed by: PARTHIPAN M
-Registeration Number : 212225040294
+Developed by: KOWSHIK RAM.S
+Registeration Number : 212225230143
 
 package com.example.lifecyclemethods;
 
